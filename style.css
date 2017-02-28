@@ -1,0 +1,19 @@
+*{
+    margin: 0 0;
+    
+}
+
+body {
+    font-family: 'Lato', 'Ariel', sans-serif;
+    text-rendering: optimizeLegibility;
+}
+
+h1 {
+    font-weight: 100;
+    font-size: 50px;
+    color: antiquewhite;
+    height: 2em;
+    background-color: #2360ea;
+    padding-top: .5em;
+}
+
